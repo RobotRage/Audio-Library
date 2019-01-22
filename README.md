@@ -9,13 +9,18 @@ IMPORTANT - program only works with .WAV files
 (if making your own file) 
 
 1)compile code and place SolaireBoard.exe inside a folder
+
 2)create a folder called "Music" and place .WAV files in here 
+
 3)create a .txt file called "custom.txt" these will be the songs that show up in the program
+
 4)create a .txt file called "all.txt" and leave this blank, this will be filled with the names of the files in the Music folder
+
 if all goes well your folder should look like this http://prntscr.com/mapjr8 (ignore the readme)
 
 (if using precompiled .rar file provided)
 1) edit custom.txt to your liking (examples included)
+
 2) run SolaireBoard.exe
 
 
