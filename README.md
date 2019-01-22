@@ -7,6 +7,7 @@ IMPORTANT - program only works with .WAV files
 
 # instructions #
 (if making your own file) 
+
 1)compile code and place SolaireBoard.exe inside a folder
 2)create a folder called "Music" and place .WAV files in here 
 3)create a .txt file called "custom.txt" these will be the songs that show up in the program
